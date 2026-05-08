@@ -24,5 +24,5 @@ I develop and maintain **[UKCellNet](https://ukcell.net)**, a community based ce
 - **GitHub:** [Report an Issue/Contribute](https://github.com/daviesryan35)
 - **Discord:** ericssonran
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviesryan35&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![My Skills](https://skillicons.dev/icons?i=java,js,mongodb,mysql,androidstudio,idea,vscode,webstorm)](https://skillicons.dev) ->
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviesryan35&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![My Skills](https://skillicons.dev/icons?i=java,js,mongodb,mysql,androidstudio,idea,vscode,webstorm)](https://skillicons.dev)
