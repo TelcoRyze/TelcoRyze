@@ -4,6 +4,7 @@ I develop and maintain **[UKCellNet](https://ukcell.net)**, a community based ce
 ### 📝 Latest UKCellNet Blogs
 * **[Lock LTE & 5G Bands on Samsung (2026)](https://www.ukcell.net/blogs/view.php?id=blog_69e2af2bc63455.99832665)** — Samsung quietly removed band locking in recent One UI versions. This technical guide outlines what is still possible without root access and how to take back control of your device's connectivity.
 * **[Royal Welsh Show 2025: Deployment Analysis](https://www.ukcell.net/blogs/view.php?id=blog_rws2025)** — A comprehensive breakdown of EE, Three, Vodafone, and O2 temporary deployments at the Royal Welsh Showground. Includes analysis of spectrum configuration, antenna identification, and live performance metrics.
+* **[Is your phone really the best for Vodafone or O2's network?](https://www.ukcell.net/blogs/view.php?id=blog_69e2db498ab001.45226747)** — An investigation into the "Beacon" network sharing agreement. This guide explains why the lack of B8+B20 Carrier Aggregation in most smartphones may be limiting your speeds in rural and suburban areas, and how to check if your device is a bottleneck.
 
 ### 🏠 Home Network
 * **Router/Firewall:** Unifi Cloud Gateway Ultra
