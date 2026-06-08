@@ -9,7 +9,7 @@ I develop and maintain **[UKCellNet](https://ukcell.net)**, a community based ce
 ### 🏠 Home Network
 * **Router/Firewall:** Unifi Cloud Gateway Ultra
 * **Switching:** HP Aruba 24-Port Switch
-* **Wi-Fi:** 3× Ruckus R600 Unleashed
+* **Wi-Fi:** 4× Ruckus R510 Unleashed
 * **Failover:** ZTE Cat6 4G Router
 
 ### 📜 Certifications & Learning
