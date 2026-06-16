@@ -21,7 +21,7 @@ I develop and maintain **[UKCellNet](https://ukcell.net)**, a community based ce
 
 ### Contact & Links
 - **Official Website:** [ukcell.net](https://ukcell.net)
-- **ISPReview Profile:** [ISPreview Community](https://www.ispreview.co.uk/talk/members/daviesryan35.38054/)
+- **ISPReview Profile:** [ISPreview Community](https://www.ispreview.co.uk/talk/members/ryze.38054/)
 - **GitHub:** [Report an Issue/Contribute](https://github.com/daviesryan35)
 - **Discord:** ericssonran
 
